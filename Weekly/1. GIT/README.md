@@ -14,11 +14,13 @@ Pada halaman utama git-scm akan disuguhkan tampilan seperti diatas. Silahkan kli
 3. Simpan file instalasi GIT pada folder yang kamu inginkan
 
 ![Popup window](asset/Screenshot%202022-12-06%20220745.png)
+
 Pastikan lokasi menaruh unduhan file instalasi mudah di ingat.
 
 4. Tunggu proses unduhan
 
 ![Proses Unduh](asset/Screenshot%202022-12-06%20220753.png)
+
 Setelah selesai mengunduh, silahkan 2x klik pada file nya.
 
 5. Akan muncul proses Instalasi
