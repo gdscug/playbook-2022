@@ -87,3 +87,12 @@ Setelah itu dapat menekan tombol `Next`.
 18. Klik Finish pada bagian ini
 
 ![15](asset/Screenshot%202022-12-06%20222254.png)
+
+# Introduce yourself to the system
+masukan command berikut pada Terminal/command prompt/powershell
+
+`$ git config --global user.name "John Doe"`
+
+`$ git config --global user.email johndoe@example.com`
+
+![16](asset/Screenshot%202022-12-06%20232340.png)
