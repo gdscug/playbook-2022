@@ -1,4 +1,4 @@
-![GDSCUG](assets/GDSCUG.png)
+![GDSCUG](assets/GDSCUG.jpg)
 
 Selamat datang di Playbook Google Developer Student Club Chapter Universitas Gunadarma.
 Pada Repository ini berisikan beberapa instruksi dan archieve beberapa dokumen yang akan digunakan pada saat berlangsungnya Weekly Class.
